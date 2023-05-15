@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Srujan Kumar !</h1>
 <h3 align="center">A Engineering Student from India!</h3>
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif?cid=ecf05e47mnyve1xrl4rb1xkzs56278ymnedlq86evpwf1otx&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambe9&label=Profile%20views&color=0e75b6&style=flat" alt="sambe9" /> </p>
