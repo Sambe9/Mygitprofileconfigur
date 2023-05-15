@@ -1,6 +1,23 @@
 
-<h1 align="center">Hi 👋, I'm Srujan Kumar !</h1>
-<h3 align="center">A Engineering Student from India!</h3>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm SAMBE SRUJAN KUMAR</h1></summary>
+    <h3 align="center">A Engineering Student from India!</h3>
+  </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
 <img align="right" alt="coding" width="200" src="https://media4.giphy.com/media/B1xUp52rUnrv1Leakw/200w.webp?cid=ecf05e47pzq3ywhhya0ot32ac4v9bbt6y4oomhs8wct5qacv&ep=v1_gifs_related&rid=200w.webp&ct=g">
 
 
