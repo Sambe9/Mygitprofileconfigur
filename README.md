@@ -25,9 +25,8 @@
 
 <p align="left"> <a href="https://twitter.com/sambesk9" target="blank"><img src="https://img.shields.io/twitter/follow/sambesk9?logo=twitter&style=for-the-badge" alt="sambesk9" /></a> </p>
 
-- 💬 Ask me about **Web development ,Graphics Designing, Digital Marketing**
-
 - 📫 How to reach me **sambesrujan2003@gmail.com**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
