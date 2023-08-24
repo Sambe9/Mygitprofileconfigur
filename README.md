@@ -23,10 +23,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sambe9&label=Profile%20views&color=0e75b6&style=flat" alt="sambe9" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sambesk9" target="blank"><img src="https://img.shields.io/twitter/follow/sambesk9?logo=twitter&style=for-the-badge" alt="sambesk9" /></a> </p>
 
-- 📫 Mail ID **sambesrujan2003@gmail.com**
-<br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
