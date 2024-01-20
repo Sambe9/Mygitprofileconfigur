@@ -5,8 +5,8 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm SAMBE SRUJAN KUMAR</h1></summary>
-    <h3 align="center">An Engineering Student from BHARATH !</h3>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm SRUJAN KUMAR SAMBE </h1></summary>
+    <h3 align="center"> Undergraduate Student from BHARATH!</h3>
   </ul>
 </div>
 
